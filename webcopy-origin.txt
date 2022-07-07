@@ -1,0 +1,152 @@
+Uri: https://enroll.zellepay.com/themes/custom/register_zellepay/favicon.ico
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\themes\custom\register_zellepay\favicon-2.ico
+Content Type: image/x-icon
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8-1.ttf
+Content Type: font/ttf
+
+Uri: https://thefirstchoicelab.com/css/main.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\css\main-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/css/util.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\css\util-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/fonts/font-awesome-4.7.0/css/font-awesome.min.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\font-awesome-4.7.0\css\font-awesome.min-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-5.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thefirstchoicelab.com/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-4.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://thefirstchoicelab.com/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-2.svg
+Content Type: image/svg+xml
+
+Uri: https://thefirstchoicelab.com/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-2.ttf
+Content Type: font/ttf
+
+Uri: https://thefirstchoicelab.com/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-2.woff2
+Content Type: font/woff2
+
+Uri: https://thefirstchoicelab.com/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont-2.woff
+Content Type: font/woff
+
+Uri: https://thefirstchoicelab.com/fonts/iconic/css/material-design-iconic-font.min.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\iconic\css\material-design-iconic-font.min-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/fonts/iconic/fonts/Material-Design-Iconic-Font.ttf?v=2.2.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\iconic\fonts\Material-Design-Iconic-Font-2.ttf
+Content Type: font/ttf
+
+Uri: https://thefirstchoicelab.com/fonts/iconic/fonts/Material-Design-Iconic-Font.woff2?v=2.2.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\iconic\fonts\Material-Design-Iconic-Font-2.woff2
+Content Type: font/woff2
+
+Uri: https://thefirstchoicelab.com/fonts/iconic/fonts/Material-Design-Iconic-Font.woff?v=2.2.0
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\iconic\fonts\Material-Design-Iconic-Font-2.woff
+Content Type: font/woff
+
+Uri: https://thefirstchoicelab.com/fonts/poppins/Poppins-Bold.ttf
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\poppins\Poppins-Bold-2.ttf
+Content Type: font/ttf
+
+Uri: https://thefirstchoicelab.com/fonts/poppins/Poppins-Medium.ttf
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\poppins\Poppins-Medium-2.ttf
+Content Type: font/ttf
+
+Uri: https://thefirstchoicelab.com/fonts/poppins/Poppins-Regular.ttf
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\poppins\Poppins-Regular-2.ttf
+Content Type: font/ttf
+
+Uri: https://thefirstchoicelab.com/fonts/poppins/Poppins-SemiBold.ttf
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\fonts\poppins\Poppins-SemiBold-2.ttf
+Content Type: font/ttf
+
+Uri: https://thefirstchoicelab.com/image/logo1.png
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\image\logo1-2.png
+Content Type: image/png
+
+Uri: https://thefirstchoicelab.com/js/main.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\js\main-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/js/progress.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\js\progress-1.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/animate/animate.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\animate\animate-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/vendor/animsition/css/animsition.min.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\animsition\css\animsition.min-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/vendor/animsition/js/animsition.min.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\animsition\js\animsition.min-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\bootstrap\css\bootstrap.min-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/vendor/bootstrap/js/bootstrap.min.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\bootstrap\js\bootstrap.min-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/bootstrap/js/popper.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\bootstrap\js\popper-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/countdowntime/countdowntime.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\countdowntime\countdowntime-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/css-hamburgers/hamburgers.min.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\css-hamburgers\hamburgers.min-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/vendor/daterangepicker/daterangepicker.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\daterangepicker\daterangepicker-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/vendor/daterangepicker/daterangepicker.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\daterangepicker\daterangepicker-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/daterangepicker/moment.min.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\daterangepicker\moment.min-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/jquery/jquery-3.2.1.min.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\jquery\jquery-3.2.1.min-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/vendor/select2/select2.min.css
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\select2\select2.min-2.css
+Content Type: text/css
+
+Uri: https://thefirstchoicelab.com/vendor/select2/select2.min.js
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\vendor\select2\select2.min-2.js
+Content Type: application/javascript
+
+Uri: https://thefirstchoicelab.com/verify-identity.php
+File Name: C:\Users\Administrator\Desktop\NEW\thefirstchoicelab.com\verify-identity.php.html
+Content Type: text/html
+
